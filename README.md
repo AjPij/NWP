@@ -1,6 +1,6 @@
 Lab and course project related files.
 
-projektni_zadatak.zip contains both the inventory main folder and an SQL databse with users and components. It is the final project ready for grading. Written in VSCode and relies on XAMPP for MySQL and Apache servers. To run extract the .zip folder into
+inventory.zip contains both the inventory main folder and an SQL databse with users and components. It is the final project ready for grading. Written in VSCode and relies on XAMPP for MySQL and Apache servers. To run extract the .zip folder into
 xampp/htdocs then open phpMyAdmin and impoert the existing database. In browser (your favorite one) type url: http://localhost/inventory, it will redirect you to login page. 
 Username:'admin', Password: 'password' or
 Username:'user',  Password: 'password' 
